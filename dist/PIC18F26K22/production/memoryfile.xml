@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/PIC18F26K22/production/RenesasBootloader18F.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>65536</length>
+      <used>1131</used>
+      <free>64405</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>3896</length>
+      <used>298</used>
+      <free>3598</free>
+    </memory>
+  </executable>
+</project>
